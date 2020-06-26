@@ -3,7 +3,7 @@ import { HttpClient } from "@angular/common/http";
 
 
 // This HttpClient is a service of HttpModulen
-// This HttpClient is used to execute http request {GET, POST, DELETE, PUT, PATC H,OPTIONS}
+// This HttpClient is used to execute http request {GET, POST, DELETE, PUT, PATCH, OPTIONS}
 @Component({
   selector: 'app-create-blog',
   templateUrl: './create-blog.component.html',
